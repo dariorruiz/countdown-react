@@ -8,6 +8,9 @@
 # testing
 /coverage
 
+# files
+/src/timer.js
+
 # production
 /build
 
